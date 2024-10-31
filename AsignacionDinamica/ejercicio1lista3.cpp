@@ -11,7 +11,6 @@ void llenarArreglo(int *p, int tam){
     }
 }
 
-
 int main(){
     int N;
     cout << "Ingrese el tamaño: ";
